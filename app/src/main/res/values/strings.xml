@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MarshmallowPermissionsTest</string>
+
+
+
+    <string name="permission.read_phone_state.message">Read phone state is needed to be notified about in app new events </string>
+    <string name="permission.write_external_storage">Nesto zapisujem u external storage</string>
+    <string name="permission.read_external_storage">"nesto citam iz external storage</string>
+</resources>
